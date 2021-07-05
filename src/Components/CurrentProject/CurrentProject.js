@@ -29,6 +29,8 @@ function CurrentProject(){
                         <div className="diamond"/>
                         <div className="line"/>
                         <div className="diamond"/>
+                        <div className="line"/>
+                        <div className="diamond"/>
                     </div>
                 </div>
 
