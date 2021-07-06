@@ -21,7 +21,7 @@ function About(){
             {/* Card text */}
             <div className="main-card__text">
                 <div className="main-card__text--slogan">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit consectetur sodales. Integer sit amet imperdiet quam. Proin consectetur rhoncus diam,</p>
+                    <p>Welcome and thank you for visiting my page. I am a Full Stack Engineer from Brevard County, Florida, USA. I love to build and create anything from software to hardware. My favorite thing to do is chill! Feel free to contact me - to chat, say hello, or any questions.</p>
                 </div>
                 
                 

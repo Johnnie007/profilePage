@@ -4,9 +4,9 @@ function Header(){
 
     return(
         <div className="header">
-            <a>About</a>
-            <a>Current Progress</a>
-            <a>Project</a>
+            <a className="color">About</a>
+            <a className="color">Current Progress</a>
+            <a className="color">Project</a>
         </div>
     )
 }

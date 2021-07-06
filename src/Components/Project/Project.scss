@@ -1,11 +1,13 @@
 .projects{
-    border: 1px solid red;
-    width:100%;
-    height: auto;
+    background: linear-gradient(#acbbc0, #3b5a9a);
+    width: 100%;
+    max-width: 700px;
+    height: 350px;
     display: flex;
     flex-direction: column;
    
     &__header{
+        background-color:  #fef7fe;
         width: 100%;
         display: flex;
         justify-content: center;
@@ -16,7 +18,6 @@
 .projects-card{
     width: 100%;
     height: 300px;
-    border:1px solid red;
     display: flex;
 
     &__content{
@@ -32,8 +33,11 @@
     &__img{
         width: 100%;
         height: 100%;
-        object-fit: cover;
+        object-fit:fill;
         object-position: center;
         border-radius: 10px;
+    }
+    &__img:hover{
+        transform: scale(1.5);
     }
 }

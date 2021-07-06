@@ -1,11 +1,19 @@
 .footer{
-    background-color: slateblue;
+    // background-color:#fef7fe;
+    background-color: black;
     height: 50px;
     width: 100%;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .footer-img{
-    height: 50px;
+    height: 25px;
+}
+
+.footer-Icons{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
 }

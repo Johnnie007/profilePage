@@ -7,10 +7,13 @@ function Footer(){
 
     return(
         <div className="footer">
-            <a><img  className="footer-img left" src={gmail}/></a>
-            <a><img  className="footer-img middle" src={github}/></a>
-            <a><img  className="footer-img end" src={linkedIn}/></a>
+            <div className="footer-Icons">
+                <a href="mailto:Johnnie.l.hick8@gmail.com"><img  className="footer-img left" src={gmail}/></a>
+                <a href="https://github.com/Johnnie007"><img  className="footer-img middle" src={github}/></a>
+                <a href="https://www.linkedin.com/in/johnnie-hicks-a3990320a/"><img  className="footer-img end" src={linkedIn}/></a>
+            </div>
         </div>
+
     )
 }
 
