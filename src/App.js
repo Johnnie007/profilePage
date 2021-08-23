@@ -1,14 +1,12 @@
 import "./App.scss";
-import Main from "./Components/Main";
-import Header from "./Components/Header/Header";
-import Footer from "./Components/Footer/Footer";
+import Nav from "./Mobile/Component/Nav/Nav"
+import HomePage from "./Mobile/Component/HomePage/HomePage";
 //background image was made by Shane Marcos https://www.artstation.com/shanevmm
 function App() {
   return (
     <div className="App">
-      {/* <Header/> */}
-      <Main/>
-      <Footer/>
+      <Nav/>
+      <HomePage/>
     </div>
   );
 }
