@@ -5,13 +5,12 @@
 //Closed Hamburger Bar
 .close{
     display: flex; 
-    height: 100px;
-    width: 100px;
+    height: 65px;
     flex-direction: column;
     justify-content: space-around;
     &__bar{
-        width: 100px;
-        height: 15px;
+        width: 50px;
+        height: 10px;
         background-color: gainsboro;
         border-radius: 20px;
     }

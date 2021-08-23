@@ -38,7 +38,7 @@ class Nav extends React.Component{
             </div>
         </nav>
 
-    close = <div className={this.state.status} onClick={this.status}>
+    close = <div className='close' onClick={this.status}>
                 <div className='close__bar'></div>
                 <div className='close__bar'></div>
                 <div className='close__bar'></div>
