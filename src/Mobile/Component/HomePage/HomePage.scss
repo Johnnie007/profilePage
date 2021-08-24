@@ -1,9 +1,34 @@
 .homepage-main{
     width: 100%;
     height: 500px;
-    border: 1px solid red;
     background-image: url(../../Images/mobile-home.svg);
     background-position: center bottom 20px;
     background-repeat: no-repeat;
     background-size: 400px;
+}
+
+.homepage__header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image{
+    display:flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.homepage__image{
+    border-radius: 50px;
+    background-image: url('../../Images/avatar.jpeg');
+    background-position: center;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+
+.homepage__content{
+    background-color: rgba($color: #C4C4C4, $alpha: .42);
+    margin-top: 20px;
+    padding: 20px;
 }
