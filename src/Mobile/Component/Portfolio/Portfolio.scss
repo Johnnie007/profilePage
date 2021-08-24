@@ -23,6 +23,7 @@
     background-color: rgba($color: #535461, $alpha: .4);
     width: 40%;
     margin-left: 1rem;
+    transition: all .5 ease-in-out;
     &__header{
         display: flex;
         flex-direction: column;
@@ -39,4 +40,12 @@
         color: white;
         list-style: none;
     }
+}
+
+.portfolio-card:hover{
+    transform: scale(1.2);
+}
+
+a{
+    text-decoration: none;
 }

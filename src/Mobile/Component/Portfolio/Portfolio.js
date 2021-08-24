@@ -8,7 +8,7 @@ function Portfolio(){
             </div>
             <div className='portfolio-cards'>
                 <div className='portfolio-card'>
-                    <div className="portfolio-card__header">
+                <a href="https://johnnie007.github.io/mosaic-me/#/"><div className="portfolio-card__header">
                         <h1>Mosaic</h1>
                         <h1>Me</h1>
                     </div>
@@ -25,7 +25,7 @@ function Portfolio(){
                             <li className='portfolio-card__li'>REST API</li>
                             <li className='portfolio-card__li'>HTML</li>
                         </ul>
-                    </div>
+                    </div></a>
                 </div>
                 
                 <div className='portfolio-card'>

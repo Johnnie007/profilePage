@@ -27,9 +27,9 @@ class Nav extends React.Component{
     open = 
         <nav className="open__nav">
             <ul className="open__nav--ul">
-                <li className="open__nav--li"><h1>Home</h1></li>
-                <li className="open__nav--li"><h1>Skills</h1></li>
-                <li className="open__nav--li"><h1>Portfolio</h1></li>
+                <li className="open__nav--li"><a href='./HomePage/HomePage.js'><h1>Home</h1></a></li>
+                <li className="open__nav--li"><a href='./Skills/Skills.js'><h1>Skills</h1></a></li>
+                <li className="open__nav--li"><a href='./Portfolio/Portfolio.js'><h1>Portfolio</h1></a></li>
             </ul>
             <div className='open' onClick={this.status}>
                 <div className='open__bar'></div>
