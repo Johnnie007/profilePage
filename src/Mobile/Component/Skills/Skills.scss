@@ -1,0 +1,37 @@
+.skills-main{
+    background-image: url(../../../Images/mobile-skills.svg);
+    background-position: center bottom 20px;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    width: 100%;
+    height: 500px;
+}
+
+.skills__header{
+    display: flex;
+    justify-content: center;
+}
+
+.skills-content{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba($color: #6C63FF, $alpha: .4);
+    &__ul{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        justify-content: space-evenly;
+        margin: 20px;
+        list-style: none;
+        width: 100px;
+        height: 100px;
+    }
+    &__li{
+        margin: 10px;
+        color: white
+    }
+
+}
