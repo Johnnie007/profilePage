@@ -21,8 +21,10 @@ function App() {
       </Switch>
       <Footer/> */}
       <Nav/>
-      {/* <HomePage/> */}
-      <Portfolio/>
+      <Switch>
+        <Route path='/' exact render={()=> <HomePage/>}/>
+        <Route path='/portfolio' render={()=> <Portfolio/>}/>
+      </Switch>
     </div>
   );
 }

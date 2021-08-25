@@ -4,6 +4,7 @@ function Portfolio(){
     return(
         <div className='desktop-portfolio-main'>
             <div className='desktop-portfolio-card'>
+            <a href="https://johnnie007.github.io/mosaic-me/#/">
                 <div className='desktop-portfolio-header'>
                     <h1>Mosaic</h1>
                     <h1>Me</h1>
@@ -21,7 +22,7 @@ function Portfolio(){
                         <li className="desktop-portfolio-build__li">RESTFUL API</li>
                         <li className="desktop-portfolio-build__li">HTML</li>
                     </ul>
-                </div>
+                </div></a>
             </div>
             <div className='desktop-portfolio-card'>
                 <div className='desktop-portfolio-header'>
