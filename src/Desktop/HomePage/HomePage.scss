@@ -4,15 +4,33 @@
     background-position: top;
     width: 100%;
     height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.desktop-homepage__header{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
 }
 
 .desktop-image{
-    border-radius: 100px;
+    border-radius: 120px;
     background-image: url('../../Images/avatar.jpeg');
     background-position: center;
     filter: grayscale(100%);
     opacity:70%;
     background-size: cover;
-    width: 200px;
-    height: 200px;
+    width: 245px;
+    height: 245px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.desktop-homepage__content{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
 }

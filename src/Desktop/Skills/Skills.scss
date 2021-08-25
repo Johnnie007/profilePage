@@ -1,0 +1,22 @@
+.desktop-skills-main{
+    background-color: rgba($color: #3F3D56, $alpha: .6);
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+}
+
+.desktop-skills-area{
+   display: flex;
+   justify-content: space-between;
+}
+
+.desktop-skills__ul{
+    margin: 1rem;
+    list-style: none;
+    color: white;
+}
+
+.desktop-skills__li{
+    margin-top: 2rem;
+    font-size: larger;
+}
