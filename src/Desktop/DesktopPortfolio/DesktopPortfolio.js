@@ -1,5 +1,5 @@
-import './Portfolio.scss'
-function Portfolio(){
+import './DesktopPortfolio.scss'
+function DesktopPortfolio(){
 
     return(
         <div className='desktop-portfolio-main'>
@@ -49,4 +49,4 @@ function Portfolio(){
     )
 }
 
-export default Portfolio;
+export default DesktopPortfolio;

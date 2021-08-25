@@ -1,6 +1,6 @@
-import './Skills.scss';
+import './DesktopSkills.scss';
 
-function Skills(){
+function DesktopSkills(){
 
     return(
         <div className='desktop-skills-main'>
@@ -33,4 +33,4 @@ function Skills(){
     )
 }
 
-export default Skills;
+export default DesktopSkills;

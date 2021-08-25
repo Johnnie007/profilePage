@@ -1,6 +1,6 @@
-import './Nav.scss'
+import './DesktopNav.scss'
 import {Link} from 'react-router-dom';
-function Nav(){
+function DesktopNav(){
     return(
     <div className='desktop-nav-main'>
         <ul className='desktop-nav-ul'>
@@ -11,4 +11,4 @@ function Nav(){
     )
 }
 
-export default Nav;
+export default DesktopNav;
