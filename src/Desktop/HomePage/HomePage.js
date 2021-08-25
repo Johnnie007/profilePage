@@ -1,0 +1,27 @@
+import './HomePage.scss'
+
+function HomePage(){
+    
+    return(
+        <div className='desktop-homepage-main'>
+            <div className='desktop-homepage__header'>
+                <div className='desktop-image'></div>
+                <div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna fringilla urna porttitor rhoncus. Lacinia quis vel eros donec ac odio. Risus quis varius quam quisque id. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Euismod in pellentesque massa placerat. Gravida dictum fusce ut placerat orci nulla pellentesque. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Quisque non tellus orci ac auctor augue mauris augue neque. Convallis aenean et tortor at risus viverra adipiscing at. Nulla pharetra diam sit amet nisl suscipit adipiscing. Nunc scelerisque viverra mauris in aliquam sem fringilla ut. Augue lacus viverra vitae congue eu consequat. Enim eu turpis egestas pretium aenean pharetra. Gravida dictum fusce ut placerat orci nulla pellentesque. Adipiscing at in tellus integer. Commodo elit at imperdiet dui accumsan. Lacus sed turpis tincidunt id aliquet risus feugiat in. Nibh sit amet commodo nulla facilisi. Adipiscing elit duis tristique sollicitudin nibh sit.
+
+Aliquam ut porttitor leo a diam sollicitudin. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Volutpat ac tincidunt vitae semper quis lectus nulla. Risus sed vulputate odio ut enim blandit volutpat maecenas. Sed odio morbi quis commodo. Semper risus in hendrerit gravida rutrum quisque non tellus orci. Leo a diam sollicitudin tempor id eu. Nisi est sit amet facilisis magna etiam. Orci phasellus egestas tellus rutrum tellus pellentesque. Cursus in hac habitasse platea dictumst quisque.
+
+Tellus id interdum velit laoreet id donec. Purus sit amet luctus venenatis lectus magna fringilla urna porttitor. Ut ornare lectus sit amet est placerat in egestas. Dolor sed viverra ipsum nunc aliquet bibendum. Volutpat consequat mauris nunc congue nisi vitae suscipit. Ut lectus arcu bibendum at varius vel pharetra vel. Consectetur a erat nam at lectus urna. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Amet risus nullam eget felis eget. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Mi proin sed libero enim sed faucibus turpis in.
+
+A lacus vestibulum sed arcu non. Parturient montes nascetur ridiculus mus mauris. Nunc sed velit dignissim sodales ut eu sem. Tempor orci dapibus ultrices in. Nec ullamcorper sit amet risus. Augue interdum velit euismod in pellentesque. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Nulla aliquet enim tortor at auctor urna nunc id cursus. Dolor purus non enim praesent elementum facilisis leo vel fringilla. Donec massa sapien faucibus et molestie. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Risus ultricies tristique nulla aliquet enim tortor.
+
+Malesuada fames ac turpis egestas. Pharetra sit amet aliquam id diam maecenas ultricies mi. Id ornare arcu odio ut. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Est ullamcorper eget nulla facilisi etiam dignissim diam. Elit sed vulputate mi sit amet mauris. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan. Enim eu turpis egestas pretium aenean pharetra magna. Aliquet risus feugiat in ante metus dictum at tempor commodo. Sed euismod nisi porta lorem mollis aliquam ut. Cras semper auctor neque vitae. Vitae auctor eu augue ut lectus. Nunc sed id semper risus in hendrerit gravida. Pretium quam vulputate dignissim suspendisse in est ante in nibh. Cursus risus at ultrices mi tempus. Sed velit dignissim sodales ut eu sem integer. Nullam eget felis eget nunc lobortis mattis aliquam faucibus purus. Vitae sapien pellentesque habitant morbi tristique senectus et. Tincidunt vitae semper quis lectus.
+
+Nunc non blandit massa enim nec dui nunc. Ut venenatis tellus in metus vulputate eu scelerisque felis. Non quam lacus suspendisse faucibus interdum. Vel pharetra vel turpis nunc eget lorem. Tellus in hac habitasse platea dictumst vestibulum rhoncus. Sed adipiscing diam donec adipiscing tristique. Vitae sapien pellentesque habitant morbi tristique. Elementum nibh tellus molestie nunc. Eget dolor morbi non arcu risus quis varius quam quisque. Dolor magna eget est lorem. Dignissim cras tincidunt lobortis feugiat vivamus at augue eget. Lorem sed risus ultricies tristique nulla aliquet enim.
+
+Sed tempus urna et pharetra. Mattis vulputate enim nulla aliquet porttitor. Neque gravida in fermentum et sollicitudin ac. Malesuada fames ac turpis egestas sed tempus. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit. Nunc lobortis mattis aliquam faucibus. Pellentesque nec nam aliquam sem. Scelerisque purus semper eget duis at tellus at. Magnis dis parturient montes nascetur ridiculus. Elementum sagittis vitae et leo duis ut diam quam. Non quam lacus suspendisse faucibus interdum posuere lorem. Velit ut tortor pretium viverra suspendisse. Odio euismod lacinia at quis risus sed vulputate odio.</p></div>
+            </div>
+        </div>
+    )
+}
+
+export default HomePage;

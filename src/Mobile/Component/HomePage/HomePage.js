@@ -1,4 +1,5 @@
-import './HomePage.scss'
+import './HomePage.scss';
+
 function HomePage(){
 
     return(
