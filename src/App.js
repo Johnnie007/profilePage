@@ -3,10 +3,11 @@ import "./App.scss";
 // import Skills from "./Mobile/Component/Skills/Skills";
 // import HomePage from "./Mobile/Component/HomePage/HomePage";
 // import Portfolio from "./Mobile/Component/Portfolio/Portfolio";
-// import Footer from "./Mobile/Component/Footer/Footer";
+import Footer from "./Mobile/Component/Footer/Footer";
 import {Switch, Route} from 'react-router-dom';
 import Nav from "./Desktop/Nav/Nav";
 import HomePage from "./Desktop/HomePage/HomePage";
+import Portfolio from "./Desktop/Portfolio/Portfolio";
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
       </Switch>
       <Footer/> */}
       <Nav/>
-      <HomePage/>
+      {/* <HomePage/> */}
+      <Portfolio/>
     </div>
   );
 }
