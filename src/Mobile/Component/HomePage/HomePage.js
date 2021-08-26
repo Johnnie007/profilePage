@@ -12,7 +12,7 @@ function HomePage(){
                 <div className='homepage__image'></div>
             </div>
             <div className='homepage__content'>
-                <p>Hey, My name is Johnnie! Lorem IspumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudr</p>
+                <p>Hey! My name is Johnnie, and thanks for checking out my section on the internet. I am a Full Stack Developer from Florida. I love to build things with my hands and solve problems. I have a 6-year-old boxer named Georgia and a 2-year-old son named Jackson. I like to hike, read books, play chess, travel, and chill! </p>
             </div>
         </div>
     )

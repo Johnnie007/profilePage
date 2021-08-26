@@ -4,7 +4,7 @@ function DesktopPortfolio(){
     return(
         <div className='desktop-portfolio-main'>
             <div className='desktop-portfolio-card'>
-            <a href="https://johnnie007.github.io/mosaic-me/#/">
+            <a href="https://johnnie007.github.io/mosaic-me/#/" className='aTag'>
                 <div className='desktop-portfolio-header'>
                     <h1>Mosaic</h1>
                     <h1>Me</h1>
@@ -25,6 +25,7 @@ function DesktopPortfolio(){
                 </div></a>
             </div>
             <div className='desktop-portfolio-card'>
+                <a href="https://country-restful-api.herokuapp.com/"  className='aTag'>
                 <div className='desktop-portfolio-header'>
                     <h1>RESTFUL</h1>
                     <h1>Country</h1>
@@ -44,6 +45,7 @@ function DesktopPortfolio(){
                         <li className="desktop-portfolio-build__li">HTML</li>
                     </ul>
                 </div>
+                </a>
             </div>
         </div>
     )

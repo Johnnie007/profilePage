@@ -8,7 +8,7 @@ function DesktopHomePage(){
             <div className='desktop-homepage__header'>
                 <div className='desktop-image'></div>
                 <div className='desktop-homepage__content'>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna fringilla urna porttitor rhoncus. Lacinia quis vel eros donec ac odio. Risus quis varius quam quisque id. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Euismod in pellentesque massa placerat. Gravida dictum fusce ut placerat orci nulla pellentesque. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Quisque non tellus orci ac auctor augue mauris augue neque.</p>
+                    <p>Hey! My name is Johnnie, and thanks for checking out my section on the internet. I am a Full Stack Developer from Florida. I love to build things with my hands and solve problems. I have a 6-year-old boxer named Georgia and a 2-year-old son named Jackson. During the winter, I like to hike, read books, and travel. The rest of the year, I am chilling or playing chess! Feel Free to contact me at any time!</p>
                 </div>
             </div>
             <DesktopSkills className='Skills'/>
