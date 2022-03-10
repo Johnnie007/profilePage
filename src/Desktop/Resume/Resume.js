@@ -3,6 +3,7 @@ import resume from '../../resume/johnnieResume.pdf';
 import './Resume.scss'
 
 const Resume = () => {
+    
     return(
         <div className='container'>
             <h1 className='container__h1'>Resume</h1>

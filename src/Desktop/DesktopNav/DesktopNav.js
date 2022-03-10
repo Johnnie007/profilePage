@@ -11,7 +11,6 @@ function DesktopNav(){
                 <li className='desktop-nav-li'><a href='https://www.linkedin.com/in/johnnie-hicks-a3990320a/'><h1>LinkedIn</h1></a></li>
                 <li className='desktop-nav-li'><a href='https://github.com/Johnnie007'><h1>GitHub</h1></a></li>
                 <li className='desktop-nav-li'><Link to='/Resume'><h1>Resume</h1></Link></li>
-                {/* <li className='desktop-nav-li'><a href={resume} download='JohnnieResume'><h1>Resume</h1></a></li> */}
                 <li className='desktop-nav-li'><h1>Status</h1></li>
             </ul>
         </div>
