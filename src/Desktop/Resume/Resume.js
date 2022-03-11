@@ -10,7 +10,7 @@ const Resume = () => {
             <Document className='document' file={resume}>
                 <Page pageNumber={1}/>
             </Document>
-             <li className='desktop-nav-li'><a href={resume} download='JohnnieResume'><h1>Download</h1></a></li>
+             <a className='container__button' href={resume} download='JohnnieResume'><h1>Download</h1></a>
         </div>
     )
 }

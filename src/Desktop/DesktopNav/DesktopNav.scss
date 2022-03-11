@@ -6,17 +6,32 @@ aside{
 .desktop-nav-main{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     height: 100%;
+    width: 100%;
+    background-color: rgb(64,60,86);
 }
 
 .desktop-nav-ul{
+    display: flex;
+    flex-direction: column;
     height: 70%;
     align-self: center;
+    justify-content: space-between;
 }
 
 .desktop-nav-li{
     list-style: none;
-    margin-left: 10px;
-    margin-right:10px;
-    margin-top: 20px;
+    //margin: 40px 10px;
+    padding-left: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: .9rem;
+}
+
+.text-color{
+    color: white;
+}
+
+.text{
+    text-decoration: underline;
 }
