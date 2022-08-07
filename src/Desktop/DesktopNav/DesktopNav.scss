@@ -1,7 +1,7 @@
 aside{
     position: fixed;
     height: 100vh;
-    width: 10%;
+    width: 140px;
 }
 .desktop-nav-main{
     display: flex;
@@ -10,6 +10,7 @@ aside{
     height: 100%;
     width: 100%;
     background-color: rgb(64,60,86);
+    margin: 5px;
 }
 
 .desktop-nav-ul{

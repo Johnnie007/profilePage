@@ -3,7 +3,6 @@ import Nav from "./Mobile/Component/Nav/Nav";
 import Skills from "./Mobile/Component/Skills/Skills";
 import HomePage from "./Mobile/Component/HomePage/HomePage";
 import Portfolio from "./Mobile/Component/Portfolio/Portfolio";
-import Resume from "./Desktop/Resume/Resume"
 import {Switch, Route} from 'react-router-dom';
 import DesktopNav from "./Desktop/DesktopNav/DesktopNav";
 import DesktopHomePage from "./Desktop/DesktopHomePage/DesktopHomePage";
@@ -39,7 +38,6 @@ function App() {
           <Route path='/' exact render={()=> <DesktopHomePage img={img} status={status} bio = {bio}/>}/>
           <Route path='/portfolio' render={()=> <DesktopPortfolio/>}/>
           <Route path='/skills' render={()=><Skills/>} />
-          <Route path='/resume' render={()=><Resume/>} />
         </Switch>
       </div>
     </div>
