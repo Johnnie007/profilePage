@@ -4,7 +4,6 @@ import DesktopSkills from '../DesktopSkills/DesktopSkills'
 //style={{backgroundImage: `url(${props.img})`}}
 
 function DesktopHomePage(props){
-    console.log(props)
     return(
         <div className='desktop-homepage-main'>
             <div className='desktop-homepage__header'>
