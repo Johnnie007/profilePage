@@ -37,11 +37,11 @@ aside{
 
 }
 
-.text-color{
+.nav-link, .text-color{
     color: white;
 }
 
-.text{
+.nav-link__active{
     background-color: rgb(82, 77, 110);
     height: 35px;
     border: 2px solid white;
