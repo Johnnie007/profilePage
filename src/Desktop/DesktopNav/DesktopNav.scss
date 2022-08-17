@@ -29,21 +29,40 @@ aside{
     line-height: 35px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 10px;
-
     &__sm{
         font-size: 9px;
         padding-left: 2px;
     }
+}
 
+.desktop-nav-li:hover{
+    background-color: rgb(82, 77, 110);
+    border: 2px solid white;
+    border-radius: 15px;
 }
 
 .nav-link, .text-color{
     color: white;
 }
 
+.nav-link{
+    text-align: center;
+    height: 35px;
+    vertical-align: middle;
+    line-height: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px
+}
+
 .nav-link__active{
     background-color: rgb(82, 77, 110);
     height: 35px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+.nav-link:hover{
+    background-color: rgb(82, 77, 110);
     border: 2px solid white;
     border-radius: 15px;
 }
