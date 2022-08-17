@@ -11,17 +11,18 @@ import React, { useState, useEffect } from "react";
 import axios from 'axios';
 
 function App() {
-  const [bio, setBio] = useState('');
-  const [img, setImg] = useState('');
-  const [status, setStatus] = useState('')
-  const apiUrl = 'https://api.github.com/users/johnnie007';
+  // const [bio, setBio] = useState('');
+  // const [img, setImg] = useState('');
+  // const [status, setStatus] = useState('')
+  // const apiUrl = 'https://api.github.com/users/johnnie007';
   
-  useEffect(async () => {
-    const results = await axios.get(apiUrl)
-    setBio(results.data.bio)
-    setImg(results.data.avatar_url)
-    setStatus(results.data.hireable)
-  })
+  // useEffect(async () => {
+  //   const results = await axios.get(apiUrl)
+  //   setBio(results.data.bio)
+  //   setImg(results.data.avatar_url)
+  //   setStatus(results.data.hireable)
+  //img={img} status={status} bio = {bio}
+  // })
   return (
     <div className="App">
       <div className='mobile'>
@@ -35,7 +36,7 @@ function App() {
       <div className='desktop'>
         <DesktopNav/>
         <Switch>
-          <Route path='/' exact render={()=> <DesktopHomePage img={img} status={status} bio = {bio}/>}/>
+          <Route path='/' exact render={()=> <DesktopHomePage />}/>
           <Route path='/portfolio' render={()=> <DesktopPortfolio/>}/>
           <Route path='/skills' render={()=><Skills/>} />
         </Switch>
