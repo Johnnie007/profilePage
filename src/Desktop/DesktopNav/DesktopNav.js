@@ -1,6 +1,6 @@
 import './DesktopNav.scss'
 import {NavLink} from 'react-router-dom';
-import resume from '../../resume/JohnnieResume.pdf';
+import resume from '../../assets/JohnnieResume.pdf';
 
 function DesktopNav(){
     return(
