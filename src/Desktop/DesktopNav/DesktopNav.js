@@ -1,10 +1,6 @@
 import './DesktopNav.scss'
 import {NavLink} from 'react-router-dom';
-<<<<<<< HEAD
 import resume from '../../assets/JohnnieResume.pdf';
-=======
-import resume from '../../resume/johnnieResume.pdf';
->>>>>>> 92ec9cefc83c7b6bdac322b76f96f4142e7afc63
 
 function DesktopNav(){
     return(
