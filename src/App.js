@@ -7,8 +7,8 @@ import {Switch, Route} from 'react-router-dom';
 import DesktopNav from "./Desktop/DesktopNav/DesktopNav";
 import DesktopHomePage from "./Desktop/DesktopHomePage/DesktopHomePage";
 import DesktopPortfolio from "./Desktop/DesktopPortfolio/DesktopPortfolio";
-import React, { useState, useEffect } from "react";
-import axios from 'axios';
+import LoadingAnimation from "./LoadingAnimation/LoadingAnimation";
+import React from "react";
 
 function App() {
   // const [bio, setBio] = useState('');
@@ -25,6 +25,7 @@ function App() {
   // })
   return (
     <div className="App">
+      <LoadingAnimation/>
       <div className='mobile'>
       <Nav/>
       <Switch>
