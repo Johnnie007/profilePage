@@ -5,12 +5,12 @@ aside{
 }
 .desktop-nav-main{
     display: flex;
+    position: absolute;
     flex-direction: column;
     justify-content: center;
     height: 100%;
-    width: 100%;
+    width: 140px;
     background-color: rgb(64,60,86);
-    margin: 5px;
 }
 
 .desktop-nav-ul{
@@ -29,10 +29,6 @@ aside{
     line-height: 35px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 10px;
-    &__sm{
-        font-size: 9px;
-        padding-left: 2px;
-    }
 }
 
 .desktop-nav-li:hover{
