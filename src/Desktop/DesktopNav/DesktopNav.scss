@@ -11,6 +11,8 @@ aside{
     height: 100%;
     width: 140px;
     background-color: rgb(64,60,86);
+    //left: -140px;
+    animation: slideIn 1s linear;
 }
 
 .desktop-nav-ul{
@@ -61,4 +63,15 @@ aside{
     background-color: rgb(82, 77, 110);
     border: 2px solid white;
     border-radius: 15px;
+}
+
+@keyframes slideIn{
+    0%{
+        left: -140px;
+    }
+
+    100%{
+        left: 0px;
+        transition: left 300ms linear;
+    }
 }
