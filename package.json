@@ -1,7 +1,7 @@
 {
   "name": "johnnie-portfolio",
   "version": "0.1.0",
-  "homepage": "https://johnnie007.github.io/react-gh-pages",
+  "homepage": "https://johnnie007.github.io/profilePage",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.1.1",
