@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.aa53b248.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.e7714e3e.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.e7714e3e.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.ff061d0b.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.ff061d0b.js.map",
-    "static/js/2.8f7d30bd.chunk.js": "/react-gh-pages/static/js/2.8f7d30bd.chunk.js",
-    "static/js/2.8f7d30bd.chunk.js.map": "/react-gh-pages/static/js/2.8f7d30bd.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.aa53b248.chunk.css.map": "/react-gh-pages/static/css/main.aa53b248.chunk.css.map",
-    "static/js/2.8f7d30bd.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.8f7d30bd.chunk.js.LICENSE.txt",
-    "static/media/JohnnieResume.4fbf9009.pdf": "/react-gh-pages/static/media/JohnnieResume.4fbf9009.pdf",
-    "static/media/DesktopHomePage.scss": "/react-gh-pages/static/media/desktop-main.17a12e6d.svg",
-    "static/media/DesktopPortfolio.scss": "/react-gh-pages/static/media/desktopPortfolio.d57b466c.svg",
-    "static/media/HomePage.scss": "/react-gh-pages/static/media/mobile-home.013cc87e.svg",
-    "static/media/Portfolio.scss": "/react-gh-pages/static/media/mobile-portfolio.6864b064.svg",
-    "static/media/Skills.scss": "/react-gh-pages/static/media/mobile-skills.638e5f23.svg"
+    "main.css": "/profilePage/static/css/main.f367b8d3.chunk.css",
+    "main.js": "/profilePage/static/js/main.e7714e3e.chunk.js",
+    "main.js.map": "/profilePage/static/js/main.e7714e3e.chunk.js.map",
+    "runtime-main.js": "/profilePage/static/js/runtime-main.11de191c.js",
+    "runtime-main.js.map": "/profilePage/static/js/runtime-main.11de191c.js.map",
+    "static/js/2.8f7d30bd.chunk.js": "/profilePage/static/js/2.8f7d30bd.chunk.js",
+    "static/js/2.8f7d30bd.chunk.js.map": "/profilePage/static/js/2.8f7d30bd.chunk.js.map",
+    "index.html": "/profilePage/index.html",
+    "static/css/main.f367b8d3.chunk.css.map": "/profilePage/static/css/main.f367b8d3.chunk.css.map",
+    "static/js/2.8f7d30bd.chunk.js.LICENSE.txt": "/profilePage/static/js/2.8f7d30bd.chunk.js.LICENSE.txt",
+    "static/media/JohnnieResume.4fbf9009.pdf": "/profilePage/static/media/JohnnieResume.4fbf9009.pdf",
+    "static/media/DesktopHomePage.scss": "/profilePage/static/media/desktop-main.17a12e6d.svg",
+    "static/media/DesktopPortfolio.scss": "/profilePage/static/media/desktopPortfolio.d57b466c.svg",
+    "static/media/HomePage.scss": "/profilePage/static/media/mobile-home.013cc87e.svg",
+    "static/media/Portfolio.scss": "/profilePage/static/media/mobile-portfolio.6864b064.svg",
+    "static/media/Skills.scss": "/profilePage/static/media/mobile-skills.638e5f23.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff061d0b.js",
+    "static/js/runtime-main.11de191c.js",
     "static/js/2.8f7d30bd.chunk.js",
-    "static/css/main.aa53b248.chunk.css",
+    "static/css/main.f367b8d3.chunk.css",
     "static/js/main.e7714e3e.chunk.js"
   ]
 }
