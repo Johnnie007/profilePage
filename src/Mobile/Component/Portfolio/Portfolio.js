@@ -8,7 +8,7 @@ function Portfolio(){
             </div>
             <div className='portfolio-cards'>
                 <div className='portfolio-card'>
-                <a href="https://johnnie007.github.io/mosaic-me/#/"><div className="portfolio-card__header">
+                <a href="https://johnnie007.github.io/CountryRESTAPI/"><div className="portfolio-card__header">
                         <h1>Mosaic</h1>
                         <h1>Me</h1>
                     </div>
