@@ -25,7 +25,7 @@ function DesktopPortfolio(){
                 </div></a>
             </div>
             <div className='desktop-portfolio-card'>
-                <a href="https://country-restful-api.herokuapp.com/"  className='aTag'>
+                <a href="https://github.com/Johnnie007/CountryRESTAPI/deployments/activity_log?environment=github-pages"  className='aTag'>
                 <div className='desktop-portfolio-header'>
                     <h1>RESTFUL</h1>
                     <h1>Country</h1>
