@@ -29,7 +29,7 @@ function Portfolio(){
                 </div>
                 
                 <div className='portfolio-card'>
-                    <a href='https://github.com/Johnnie007/CountryRESTAPI/deployments/activity_log?environment=github-pages'>
+                    <a href='https://johnnie007.github.io/CountryRESTAPI/'>
                     <div className="portfolio-card__header">
                         <h1>RESTFUL</h1>
                         <h1>Country </h1>
